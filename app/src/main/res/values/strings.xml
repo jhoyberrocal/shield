@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Jhoy Tube</string>
+    <string name="welcome_message">Bienvenido a Jhoy Tube</string>
+    <string name="offline_mode">Descargas</string>
+    <string name="no_downloads">No hay canciones descargadas</string>
+    <string name="downloading">Descargando…</string>
+    <string name="download_complete">Descarga completada</string>
+    <string name="delete_download">Eliminar descarga</string>
+    <string name="delete_confirm">¿Eliminar esta canción?</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+</resources>

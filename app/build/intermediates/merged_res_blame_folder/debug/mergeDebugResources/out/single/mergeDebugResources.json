@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.jhoy.shield.app-debug-53:/drawable_ic_notification.xml.flat",
+        "source": "com.jhoy.shield.app-main-55:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.jhoy.shield.app-debug-53:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.jhoy.shield.app-main-55:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.jhoy.shield.app-debug-53:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.jhoy.shield.app-main-55:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.jhoy.shield.app-debug-53:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.jhoy.shield.app-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.jhoy.shield.app-debug-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.jhoy.shield.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

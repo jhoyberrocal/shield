@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color shield_blue
+color shield_blue_dark
+color shield_blue_light
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_notification
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string cancel
+string delete
+string delete_confirm
+string delete_download
+string download_complete
+string downloading
+string no_downloads
+string offline_mode
+string welcome_message
+style Theme.Shield
